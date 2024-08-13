@@ -1,4 +1,4 @@
-#Example solution for WE studrents taking on thier first frontend task!
+# Example solution for WE studrents taking on thier first frontend task!
 
 # Frontend Mentor - Product preview card component
 
