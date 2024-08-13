@@ -1,5 +1,9 @@
 # Example solution for WE studrents taking on thier first frontend task!
 
+
+
+
+
 # Frontend Mentor - Product preview card component
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
